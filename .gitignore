@@ -1,4 +1,4 @@
 .ipynb_checkpoints
-.temp
-.doc
-.json
+*.temp
+*.doc
+*.json
